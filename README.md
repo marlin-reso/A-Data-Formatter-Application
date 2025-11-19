@@ -27,19 +27,6 @@ This README includes a matrix-style animated banner to give the tool a modern, t
 
 ---
 
-## 📁 Folder Structure
-
-```
-Data-Formatter-JS/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── icons/
-│   └── gifs/
-└── README.md
-```
 
 ---
 
