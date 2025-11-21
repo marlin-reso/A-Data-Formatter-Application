@@ -10,14 +10,14 @@ A lightweight **Data Formatter** utility built with **JavaScript** that helps tr
 
 ## 🚀 Features
 
-✔ Pretty-print JSON with collapsible sections
-✔ Convert CSV ↔ JSON bidirectionally
-✔ Minify / Beautify JSON
-✔ Validate JSON schema (basic)
-✔ Sort object keys and format arrays
-✔ Export formatted data as a file
-✔ Keyboard shortcuts for quick actions
-✔ Live preview with syntax highlighting
+✔ Pretty-print JSON with collapsible sections.
+✔ Convert CSV ↔ JSON bidirectionally.
+✔ Minify / Beautify JSON.
+✔ Validate JSON schema (basic).
+✔ Sort object keys and format arrays.
+✔ Export formatted data as a file.
+✔ Keyboard shortcuts for quick actions.
+✔ Live preview with syntax highlighting.
 
 ---
 
